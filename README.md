@@ -1,0 +1,2 @@
+# newspeak
+Simple gpg scripts
